@@ -31,7 +31,7 @@
 
 - :zap: In my free time, I work on my personal projects and learn new technologies. 
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kdtnguyen)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)] <a href='https://www.linkedin.com/in/kdtnguyen/' target=_blank>LinkedIn</a>
 
 ---
 
